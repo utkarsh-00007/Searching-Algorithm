@@ -19,12 +19,6 @@ public class SequentialSearch {
                 System.out.println("Search successful, item found at position "+ (i+1));
                 break;
             }
-            else {
-                System.out.println("Search not successful, elements not found");
-                break;
-            }
         }
-
-
     }
 }
